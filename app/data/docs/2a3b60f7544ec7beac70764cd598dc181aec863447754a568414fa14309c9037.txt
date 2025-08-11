@@ -1,0 +1,4 @@
+Perplexity AI é um mecanismo de pesquisa e conversação baseado em IA que responde a perguntas usando texto preditivo de linguagem natural.
+Lançado em 2022, Perplexity gera respostas usando fontes da web e cita links dentro da resposta de texto.
+Perplexity funciona em um modelo Freemium; o produto gratuito usa o modelo de linguagem grande independente (LLM) da empresa que incorpora recursos de Processamento de linguagem natural (NLP), enquanto a versão paga Perplexity Pro tem acesso a GPT-4, Claude 3.5, Mistral Large, Llama 3 e um Modelo de Perplexity Experimental.
+No primeiro trimestre de 2024, ele tinha atingido 15 milhões de usuários mensais.

@@ -1,0 +1,2 @@
+Midjourney é um serviço de inteligência artifical desenvolvido pelo Midjourney, Inc., um laboratório de pesquisa independente baseado em São Francisco. O Midjourney gera imagens a partir de descrições em linguagem natural, chamadas de prompts (do inglês: roteiros), similar ao DALL-E da OpenAI e ao Stable Diffusion. Os textos são enviados ao Midjourney através do Discord. A ferramenta está em fase de testes beta abertos ao público desde julho de 2022. 
+De acordo com David Holz, que lidera o laboratório, em agosto de 2022 o Midjourney já dava lucro.

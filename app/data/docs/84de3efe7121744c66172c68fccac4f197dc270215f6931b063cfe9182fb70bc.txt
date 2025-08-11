@@ -1,0 +1,2 @@
+Udacity é uma organização educacional com fins lucrativos fundada por Sebastian Thrun, David Stavens, e Mike Sokolsky.
+Nasceu de um experimento da Universidade de Stanford, em que Sebastian Thrun e Peter Norvig ofereceram o curso on-line de "Introdução à Inteligência Artificial" para qualquer pessoa, gratuitamente. Mais de 160 mil alunos em mais de 190 países realizaram a inscrição. Começou a operar no ano de 2011. Segundo a empresa, seu objetivo é tornar a educação de ponta acessível para todos.

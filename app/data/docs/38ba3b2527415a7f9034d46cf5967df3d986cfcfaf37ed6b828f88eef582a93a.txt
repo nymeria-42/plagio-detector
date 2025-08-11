@@ -1,0 +1,1 @@
+NotebookLM (Google NotebookLM) é uma ferramenta de pesquisa e anotações on-line desenvolvida pelo Google Labs que usa inteligência artificial (IA), especificamente o Google Gemini, para ajudar os usuários a interagir com seus documentos.

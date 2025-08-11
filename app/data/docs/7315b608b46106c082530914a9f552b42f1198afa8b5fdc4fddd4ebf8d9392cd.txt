@@ -1,0 +1,1 @@
+Bradesco Inteligência Artificial (Bia) é um chatbot movido a inteligência artificial do Bradesco. Seu desenvolvimento iniciou-se em 2014 a partir do Watson, da IBM.

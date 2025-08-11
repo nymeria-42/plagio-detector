@@ -1,0 +1,1 @@
+A Teoria de Inferência Indutiva Universal de Solomonoff é uma teoria de predição baseada em observações lógicas, assim como predizendo o próximo símbolo baseada numa dada série de símbolos. A única suposição é de que o ambiente segue alguma distribuição probabilística desconhecida mas computável. Isso é uma lâmina de Occam matematicamente formalizada.

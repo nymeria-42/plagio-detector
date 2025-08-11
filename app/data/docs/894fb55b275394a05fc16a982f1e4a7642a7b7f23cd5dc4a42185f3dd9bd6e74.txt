@@ -1,0 +1,12 @@
+A filosofia da inteligência artificial tenta responder a questões como:
+Pode uma máquina agir inteligentemente? Pode resolver qualquer problema que uma pessoa resolveria através do raciocínio?
+Pode uma máquina possuir uma mente, estados mentais e uma consciência, da mesma maneira que os seres humanos possuem? As máquinas podem sentir?
+A inteligência humana e a inteligência de uma máquina são idênticas? É o cérebro humano essencialmente um computador?
+Estas três questões refletem os interesses divergentes dos pesquisadores em inteligência artificial, filósofos e cientistas da cognição, respectivamente. As respostas a estas questões depende de como é definida "inteligência" ou "consciência" e exatamente que "máquinas" estão sob discussão.
+Questões como essas refletem os interesses divergentes de pesquisadores de IA, cientistas cognitivos e filósofos, respectivamente. As respostas científicas a essas questões dependem da definição de "inteligência" e "consciência" e de quais "máquinas" estão sendo discutidas.
+Proposições importantes na filosofia da IA incluem as seguintes:
+A "convenção educada" de Turing: Se uma máquina se comporta de maneira tão inteligente quanto um ser humano, então ela é tão inteligente quanto um ser humano.
+A proposta de Dartmouth: "Todo aspecto do aprendizado ou qualquer outra característica da inteligência pode, em princípio, ser descrito de forma tão precisa que uma máquina possa ser feita para simulá-lo."
+A hipótese do sistema de símbolos físicos de Allen Newell e Herbert A. Simon: "Um sistema de símbolos físicos possui os meios necessários e suficientes para a ação inteligente geral."
+A hipótese da IA forte de John Searle: "O computador devidamente programado, com as entradas e saídas corretas, teria uma mente no mesmo sentido que os seres humanos têm."
+O mecanismo de Hobbes: "Pois 'razão'... não é nada mais do que 'cálculo', isto é, somar e subtrair as consequências de nomes gerais acordados para 'marcar' e 'significar' nossos pensamentos..."

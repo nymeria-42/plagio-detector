@@ -1,0 +1,10 @@
+Artificial Intelligence: A Modern Approach (AIMA) (Inteligência Artificial: Uma Abordagem Moderna) é um livro universitário sobre inteligência artificial (IA), escrito por Stuart Russell e Peter Norvig. É considerado um dos livros mais usados em IA e é adotado por mais de 1500 escolas. Foi publicado pela primeira vez em 1995 e a quarta edição do livro foi lançada em 28 de abril de 2020. Abrange uma ampla variedade de tópicos em IA, incluindo resolução de problemas, conhecimento e raciocínio, aprendizado de máquina, processamento de linguagem natural e robótica.
+O livro está dividido em sete partes principais:
+I. Inteligência Artificial
+II. Resolução de problemas
+III. Conhecimento, raciocínio e planejamento
+IV. Conhecimento e raciocínio incertos
+V. Aprendizado de máquina
+VI. Comunicação, percepção e ação
+VII. Conclusões
+Cada parte contém vários capítulos que abordam tópicos específicos dentro dessas áreas.

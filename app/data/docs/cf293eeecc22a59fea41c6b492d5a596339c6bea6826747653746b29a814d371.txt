@@ -1,0 +1,1 @@
+Veo é um sistema de inteligência artificial criado pelo Google DeepMind, apresentado ao público em maio de 2024. Trata-se de um modelo generativo capaz de produzir vídeos a partir de comandos fornecidos pelo usuário. Sua versão mais recente, o Veo 3, lançada em maio de 2025, também inclui a capacidade de gerar trilhas sonoras para os vídeos criados.
