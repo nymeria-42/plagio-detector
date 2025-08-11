@@ -89,7 +89,7 @@ Exemplo de resposta:
 }
 ```
 
-## Comparar textos
+### Comparação de textos
 
 Recebe um texto para verificar plágio e o compara com o corpus de documentos.
 
