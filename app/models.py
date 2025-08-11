@@ -5,7 +5,7 @@ import csv
 import numpy as np
 from sentence_transformers import SentenceTransformer
 from sklearn.feature_extraction.text import TfidfVectorizer
-
+from .setup_data import initialize_data
 DATA_DIR = os.path.join(os.path.dirname(__file__), "data")
 DOCS_DIR = os.path.join(DATA_DIR, "docs")
 
@@ -14,6 +14,12 @@ class Corpus:
         self.ids: List[str] = []
         self.titles: List[str] = []
         self.texts: List[str] = []
+
+        if not os.path.exists(DOCS_DIR) or not os.listdir(DOCS_DIR):
+            print(f"Corpus directory '{DOCS_DIR}' is empty or missing. Initializing data...")
+            self._setup_data()
+        else:
+            print(f"Corpus directory '{DOCS_DIR}' already has data. Skipping initialization.")
 
         self._load_docs()
 
@@ -24,6 +30,10 @@ class Corpus:
         # Embeddings
         self.embed_model = SentenceTransformer("all-MiniLM-L6-v2")
         self.embeddings = self.embed_model.encode(self.texts, show_progress_bar=False)
+
+    def _setup_data(self):
+        initialize_data(search_query="inteligência artificial")
+        
 
     def _load_docs(self):
         mapping_file = os.path.join(DATA_DIR, "metadata.csv")
