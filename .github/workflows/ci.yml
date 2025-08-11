@@ -15,5 +15,5 @@ jobs:
         with:
           python-version: "3.11"
       - run: pip install -r requirements.txt
-      - run: pytest --maxfail=1 --disable-warnings -q
+      - run: PYTHONPATH=$(pwd) pytest --maxfail=0 --disable-warnings -q
       - run: docker build -t plagio-detector .
